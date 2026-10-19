@@ -106,7 +106,7 @@ def create_crew(user_request: str) -> Crew:
 
         process=Process.sequential,
 
-        verbose=True,
+        verbose=True, #I put it true to see the exceutiong logs while developing and debugging . Now After Finishsing U Can make it False
     )
 
     return crew
