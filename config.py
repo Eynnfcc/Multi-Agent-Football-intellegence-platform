@@ -62,33 +62,6 @@ SCRAPING_TIMEOUT_SECONDS = 60
 CREW_VERBOSE = True
 AGENT_MAX_ITERATIONS = 3
 
-
-# ==========================================================
-# Club Information
-# ==========================================================
-
-CLUB_NAME = "European Football Club"
-
-CLUB_DESCRIPTION = (
-    "A professional European football club searching for "
-    "high-quality players using data-driven recruitment."
-)
-
-CLUB_PLAYING_STYLE = (
-    "High pressing, quick transitions, technical quality, "
-    "and intelligent positional play."
-)
-
-DEFAULT_CURRENCY = "EUR"
-
-
-# ==========================================================
-# Report
-# ==========================================================
-
-REPORT_TITLE = "AI Football Scouting Report"
-
-
 # ---------------------------------------------------------
 # 10. Configuration validation
 # ---------------------------------------------------------
